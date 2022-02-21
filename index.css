@@ -19,3 +19,9 @@ p.yes-text {
   font-size: 60px;
   font-weight: bold;
 }
+
+p.no-text {
+  color: #E74C3C;
+  font-size: 60px;
+  font-weight: bold;
+}
