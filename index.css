@@ -14,7 +14,7 @@ p {
   font-family: 'Roboto', sans-serif;
 }
 
-yes-text {
+p.yes-text {
   font-color: #27AE60;
   font-size: 60px;
 }
