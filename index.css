@@ -15,6 +15,7 @@ p {
 }
 
 p.yes-text {
-  font-color: #27AE60;
+  color: #27AE60;
   font-size: 60px;
+  font-weight: bold;
 }
